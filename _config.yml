@@ -1,10 +1,10 @@
 # Site
 
-name: "Software Shinobi"
+name: "Vida De Avion"
 
-title: "Freelance Web Developer"
+title: "title title title"
 
-description: "i'm a freelance web developer. u make web sites and mobile apps and server backends."
+description: "Even James Dean couldn't escape the allure."
 
 logo: 'assets/images/logo.png'
 
@@ -31,13 +31,13 @@ email: the.software.shinobi@gmail.com
 authors:
 
   softwareshinobi:
-    name: softwareshinobi
-    display_name: Software Shinobi
+    name: mateo
+    display_name: mateo
     avatar: 'assets/images/softwareshinobi.jpg'
     email: the.software.shinobi@gmail.com
-    web: https://softwareshinobi.digital
-    twitter: https://twitter.com/softwareshinobi
-    description: "i'm a freelance web developer. i make web sites and mobile apps and server backends."
+    web: https://vidadeavion.online
+    twitter: https://twitter.com/vidadeavion
+    description: "Even James Dean couldn't escape the allure."
 
 # Plugins
 plugins:
