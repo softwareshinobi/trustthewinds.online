@@ -2,7 +2,7 @@
 
 layout: post
 
-title:  "My Typical Empanada Masa Recipe"
+title:  "My Typical Empanada chorizo situation Recipe"
 
 author: vidadeavion
 
@@ -10,7 +10,7 @@ categories: [ Recetas, Colombianas ]
 
 image: assets/images/recetas/colombianas/empanada-bounty.jpeg
 
-beforetoc: "A non traditional colombian masa recipe"
+beforetoc: "ddddpe"
 
 toc: true
 
