@@ -1,5 +1,0 @@
-cologne
-
-pen
-
-notepad
