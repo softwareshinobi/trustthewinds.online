@@ -42,8 +42,10 @@ This recipe yields enough dough for about 10-12 empanadas.
 
 ## Tips:
 
-* Make sure your water is hot when incorporating it into the dough. This helps activate the starches in the cornmeal and creates a better texture.
+* This has been debated with locals... but really cold water has always made the best empanada masa in my opinion. it was flakier or something. superior.
 
-* Don't overwork the dough. Knead it just until it comes together and is smooth. Overkneading can make the dough tough.
+* If you are feeling saucy, you can add a packet of cumin in with the dry ingredients.
 
-* If you're not planning on using the dough right away, you can store it in an airtight container in the refrigerator for up to 2 days.
+* Don't overwork the masa. Knead it just until it comes together and is smooth. Overkneading can make the masa tough.
+
+* If you're not planning on using the masa right away, you can store it in an airtight container in the refrigerator for up to 2 days.
