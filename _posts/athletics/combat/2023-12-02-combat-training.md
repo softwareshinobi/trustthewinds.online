@@ -4,17 +4,15 @@ layout: post
 
 author: softwareshinobi
 
-title:  "fight training stuff"
+title:  "combat training stuff"
 
-categories: []
+categories: [ Combat, Training ]
 
-tags: []
+image: assets/images/athletics/combat/fighttrain.jpeg
 
-image: https://random.imagecdn.app/820/360
+beforetoc: "combat training stuff"
 
-description: "fight training stuff"
-
-hidden: false
+toc: true
 
 ---
 
@@ -23,8 +21,6 @@ fight training stuff
 ## Build SAVAGE PUNCHING STRENGTH with this dumbbell workout 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zP_ibgLHrvo?si=SE8OjpFfElSO4DkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## shadow boxing
 
 ## Shadowboxing with Weights: Benefits & Workouts 
 
