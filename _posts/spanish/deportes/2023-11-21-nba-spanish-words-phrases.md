@@ -6,9 +6,9 @@ title:  "Basketball & Hooping / Spanish Words & Translations"
 
 author: videdeavion
 
-categories: [ spanish,football ]
+categories: [ Spanish, Basketball ]
 
-image: assets/images/athletics/basketball/nighttimecourts.jpg
+image: assets/images/athletics/basketball/nighttimecourts.jpeg
 
 ---
 
