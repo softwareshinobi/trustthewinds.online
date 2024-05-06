@@ -8,7 +8,7 @@ author: vidadeavion
 
 categories: [ Recetas, Colombianas ]
 
-image: assets/images/recetas/colombianas/empanada-masa.jpeg
+image: assets/images/recetas/colombianas/empanada-bounty.jpeg
 
 beforetoc: "A non traditional colombian masa recipe"
 
