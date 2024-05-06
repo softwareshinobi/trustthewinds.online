@@ -4,11 +4,11 @@ layout: post
 
 title:  "Basketball & Hooping / Spanish Words & Translations"
 
-author: sal
+author: videdeavion
 
 categories: [ spanish,football ]
 
-image: assets/images/logos/nba-logo.jpg
+image: assets/images/athletics/basketball/nighttimecourts.jpg
 
 ---
 
