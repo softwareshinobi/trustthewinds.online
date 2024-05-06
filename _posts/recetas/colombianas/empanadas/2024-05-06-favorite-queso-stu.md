@@ -2,13 +2,13 @@
 
 layout: post
 
-title:  "My Typical Empanada de quesosituation Recipe"
+title:  "Cheese Empandas / Empanadas De Queso [Estilo De Mateo]"
 
 author: vidadeavion
 
 categories: [ Recetas, Colombianas ]
 
-image: assets/images/recetas/colombianas/empanada-bounty.jpeg
+image: assets/images/recetas/colombianas/empanadas/queso.jpeg
 
 beforetoc: "ddddpe"
 
