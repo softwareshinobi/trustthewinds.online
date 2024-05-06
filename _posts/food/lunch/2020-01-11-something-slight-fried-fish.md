@@ -5,3 +5,5 @@ author: john
 categories: [ comida, almuerzar ]
 image: assets/images/food/almuerzo/fried-fish-plate.jpg
 ---
+
+Basketball & Hooping / Spanish Words & Translations learned from nba and basketball adjacent media. 
