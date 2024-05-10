@@ -4,7 +4,7 @@ name: "Vida De Avion"
 
 title: "title title title"
 
-description: "Even James Dean couldn't escape the allure."
+description: "top scores and top floors"
 
 logo: 'assets/images/logo.png'
 
@@ -38,7 +38,7 @@ authors:
     email: the.software.shinobi@gmail.com
     web: https://vidadeavion.online
     twitter: https://twitter.com/vidadeavion
-    description: "Even James Dean couldn't escape the allure."
+    description: "top scores and top floors"
 
 # Plugins
 plugins:
