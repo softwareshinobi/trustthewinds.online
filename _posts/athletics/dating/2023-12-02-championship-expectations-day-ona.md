@@ -2,15 +2,15 @@
 
 layout: post
 
-author: sal
+author: mateo
 
-title:  "stretch routine"
+title:  "Do This At The Park To Get More Bitches [Step By Step]"
 
 categories: [athletics, basketball]
 
 tags: [athletics,sports,basketball,james harden,harden,step back]
 
-image: assets/images/athletics/basketball/stephcurry.jpg
+image: assets/imagery/athletics/dating/athletestreetgame.jpg
 
 description: "All the content to copy the game of basketball like James Harden."
 
