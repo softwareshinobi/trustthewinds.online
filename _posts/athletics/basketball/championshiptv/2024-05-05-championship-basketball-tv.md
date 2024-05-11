@@ -34,4 +34,10 @@ winning is a decision that you make.
 "You merely adopted the dark. I was born in it, molded by it" Bane
 ```
 
+## one hour of 2017 playoff golden state
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nKduGl2A1bk?si=0Go0IrA8DTKeIOYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## 2017 playoff steph highlights
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79yNxXmWfHg?si=whQiVgezloygLBHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

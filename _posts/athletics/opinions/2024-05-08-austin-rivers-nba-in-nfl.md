@@ -10,7 +10,7 @@ categories: [athletics, basketball]
 
 tags: [athletics,sports,basketball,james harden,harden,step back]
 
-image: assets/images/athletics/basketball/james-harden.jpg
+image: assets/imagery/athletics/opinions/austinriversjamesjones.webp
 
 description: "All the content to copy the game of basketball like James Harden."
 
