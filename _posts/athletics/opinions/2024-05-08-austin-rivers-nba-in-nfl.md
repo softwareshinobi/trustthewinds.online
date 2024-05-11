@@ -2,9 +2,9 @@
 
 layout: post
 
-author: sal
+author: mateo
 
-title:  "Playing Basketball Like James Harden"
+title:  "Reacting To Austin Rivers And NBA Players in NFL"
 
 categories: [athletics, basketball]
 
@@ -18,7 +18,7 @@ hidden: false
 
 ---
 
-this is a reaction peice. 
+this is a reaction piece to austin rivers and the 30 nfl players and 30 nba players. 
 
 ## original quote
 
