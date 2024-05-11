@@ -63,3 +63,9 @@ in the beginning there was a 6' 4" left handed dude that swagger jacked kobe bry
 ## steph curry balling in 2017 playoffs
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/79yNxXmWfHg?si=whQiVgezloygLBHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## bball breakdown of the finals games
+
+https://www.youtube.com/watch?v=38333HAyGP8&list=PLpIcK3MilCnZUrQRhiW1j8kY4Jf9b8umg&index=3
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/38333HAyGP8?si=uYSHQzwwr61cOIC9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
