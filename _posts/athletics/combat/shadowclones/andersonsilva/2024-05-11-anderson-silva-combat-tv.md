@@ -6,7 +6,7 @@ title:  "Anderson Silva Fight TV"
 
 author: mateo
 
-categories: [ Combat ]
+categories: [ Combat, Anderson Silva ]
 
 image: assets/imagery/athletics/combat/shadowclones/andersonsilva/cover.jpg
 
