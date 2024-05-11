@@ -2,26 +2,18 @@
 
 layout: post
 
-author: softwareshinobi
+title:  "Connor McGregor Combat TV"
 
-title:  "combat training stuff"
+author: mateo
 
-categories: [ Combat, Training ]
+categories: [ Combat, Anderson Silva ]
 
-image: assets/images/athletics/combat/fighttrain.jpeg
+image: assets/imagery/athletics/combat/shadowclones/connormcgregor/sitting.jpg
 
-beforetoc: "combat training stuff"
+beforetoc: "Fight Like Connor McGregor"
 
 toc: true
 
 ---
 
-fight training stuff
-
-## Build SAVAGE PUNCHING STRENGTH with this dumbbell workout 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zP_ibgLHrvo?si=SE8OjpFfElSO4DkV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## Shadowboxing with Weights: Benefits & Workouts 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q7pbODLF5Ys?si=ERhBad4_nq_c1LUw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QwmLtwZQQqc?si=5OPjyBFHKaBx6TZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

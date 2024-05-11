@@ -2,15 +2,15 @@
 
 layout: post
 
-title:  "Fight Like connor mcgregor"
+title:  "Fight Like Anderson Silva"
 
 author: mateo
 
-categories: [ Combat, connor mcgregor ]
+categories: [ Combat, Anderson Silva ]
 
 image: assets/imagery/athletics/combat/shadowclones/connormcgregor/knockout.jpg
 
-beforetoc: "Fight Like connor mcgregor"
+beforetoc: "Fight Like Anderson Silva"
 
 toc: true
 
