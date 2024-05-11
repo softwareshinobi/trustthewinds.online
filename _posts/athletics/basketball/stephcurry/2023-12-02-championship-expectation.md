@@ -59,3 +59,7 @@ i must have flash in my game, no exceptions. a win is not enough for me.
 this is the beginning.
 
 in the beginning there was a 6' 4" left handed dude that swagger jacked kobe bryant who swagger jacked micheal jordan so that he could swagger jack championship steph curry and championship steph curry only. and style on every challenger for ever and ever. amen. b/c i want to win only if i style on you while i do it.
+
+## steph curry balling in 2017 playoffs
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/79yNxXmWfHg?si=whQiVgezloygLBHO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
