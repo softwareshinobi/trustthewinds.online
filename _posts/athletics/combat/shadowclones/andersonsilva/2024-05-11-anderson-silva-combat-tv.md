@@ -2,13 +2,13 @@
 
 layout: post
 
-title:  "Fight Like Anderson Silva"
+title:  "Anderson Silva Combat TV"
 
 author: mateo
 
 categories: [ Combat, Anderson Silva ]
 
-image: assets/imagery/athletics/combat/shadowclones/andersonsilva/cover.jpg
+image: assets/imagery/athletics/combat/shadowclones/andersonsilva/sitting.jpg
 
 beforetoc: "Fight Like Anderson Silva"
 

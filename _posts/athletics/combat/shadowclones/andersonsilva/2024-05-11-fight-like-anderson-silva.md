@@ -1,24 +1,19 @@
-
-
 ---
 
 layout: post
 
-author: sal
+title:  "Fight Like Anderson Silva"
 
-title:  "andrson silva shadow clone jutsu"
+author: mateo
 
-categories: [athletics, basketball]
+categories: [ Combat, Anderson Silva ]
 
-tags: [athletics,sports,basketball,james harden,harden,step back]
+image: assets/imagery/athletics/combat/shadowclones/andersonsilva/knockout.jpg
 
-image: assets/images/athletics/basketball/stephcurry.jpg
+beforetoc: "Fight Like Anderson Silva"
 
-description: "All the content to copy the game of basketball like James Harden."
-
-hidden: false
+toc: true
 
 ---
-
 
 https://www.youtube.com/watch?v=6-XzIacyFT8
