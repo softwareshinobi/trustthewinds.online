@@ -10,7 +10,7 @@ categories: [athletics, basketball]
 
 tags: [athletics,sports,basketball,winning,championships,steph curry,mindset]
 
-image: assets/imagery/basketball/championship/larryobrian.jpg
+image: assets/imagery/athletics/basketball/championship/larryobrian.jpg
 
 description: "Long Run Warriors during 2017 championship playoffs"
 
