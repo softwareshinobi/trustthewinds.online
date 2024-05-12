@@ -6,7 +6,7 @@ title:  "Fight Like Mateo Montenegro"
 
 author: mateo
 
-categories: [ Combat, Anderson Silva, Connor McGregor ]
+categories: [ Combat, Mateo Montenegro, Anderson Silva, Connor McGregor ]
 
 image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/mateomontenegro.jpg
 
