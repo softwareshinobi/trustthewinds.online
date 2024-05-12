@@ -20,21 +20,29 @@ the fight bag of mateo montenegro. the baddest bad boy on the planet.
 
 ## the mindset
 
-american dominance. from day one.
+first blood belongs to me.
 
-emulate the greats.
+american dominance from day one.
 
-escalate force.
+emulate the greats and escalate force.
 
-## philosophy / american aggression on full display
+humiliate and demoralize the opponent.
 
-aggressive and controversial international policy.
+## philosophy
 
-we didn't come here to sing kumbaya with you.
+if you needed one, have two.
 
-escalation of force. scramble the jets.
+american aggression on full display.
 
-throw the first punch.
+we are ok being the villian. 
+
+we are ok with an aggressive and controversial international policy.
+
+outright aggression always beats passive aggression.
+
+set the tone early. hit early. hit often.
+
+have a nuke or two. make the sure the button works.
 
 ## the fighting template [anderson silva]
 
