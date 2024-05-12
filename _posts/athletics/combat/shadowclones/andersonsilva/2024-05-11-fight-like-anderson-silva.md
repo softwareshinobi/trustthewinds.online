@@ -10,12 +10,14 @@ categories: [ Combat, Anderson Silva ]
 
 image: assets/imagery/athletics/combat/shadowclones/andersonsilva/knockout.jpg
 
-beforetoc: "Fight Like Anderson Silva"
+beforetoc: "a youtube playlist of tutorials for anderson silva's fighting style"
 
 toc: true
 
 ---
 
+a youtube playlist of tutorials for anderson silva's fighting style.
+ 
 ## fight like anderson silva (fightTips)
 
 Anderson Silva has become a legend in the sport of MMA. He dismantles his opponents with precise punches, sharp kicks, and devastating knees in the Muay Thai clinch.
