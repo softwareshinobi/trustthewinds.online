@@ -8,15 +8,19 @@ author: mateo
 
 categories: [ Combat, Mateo Montenegro ]
 
-image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/mateomontenegro.jpg
+image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/sitting.jpg
 
-beforetoc: "you play like you practice. championship expectations"
+beforetoc: "mateo montenegro was born into championship pedigree. heavied is the head that wears the crown. play like you practice. championship expectations."
 
 toc: true
 
 ---
 
-getting the mind and body right. heavied is the head that wears the crown.
+mateo montenegro was born into championship pedigree. heavied is the head that wears the crown.
+
+the sun beams championship expectations onto me.
+
+there is no cheating the team, there is only cheating yourself.
 
 ## boxing focuses agility ladder drills
 
