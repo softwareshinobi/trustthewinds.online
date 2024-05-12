@@ -2,11 +2,11 @@
 
 layout: post
 
-title:  "Fight Like Mateo Montenegro"
+title:  "Training Like Mateo Montenegro"
 
 author: mateo
 
-categories: [ Combat, Mateo Montenegro ]
+categories: [ Athletics, Combat ]
 
 image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/sitting.jpg
 
