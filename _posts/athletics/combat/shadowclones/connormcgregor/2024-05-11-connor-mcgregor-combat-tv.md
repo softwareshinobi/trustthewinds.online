@@ -10,7 +10,7 @@ categories: [ Combat, Connor McGregor ]
 
 image: assets/imagery/athletics/combat/shadowclones/connormcgregor/sitting.jpg
 
-beforetoc: "Fight Like Connor McGregor"
+beforetoc: "youtube videos of connor mcgregor fighting."
 
 toc: true
 
