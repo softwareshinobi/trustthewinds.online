@@ -6,7 +6,7 @@ title:  "Connor McGregor Combat TV"
 
 author: mateo
 
-categories: [ Combat, Anderson Silva ]
+categories: [ Combat, Connor McGregor ]
 
 image: assets/imagery/athletics/combat/shadowclones/connormcgregor/sitting.jpg
 

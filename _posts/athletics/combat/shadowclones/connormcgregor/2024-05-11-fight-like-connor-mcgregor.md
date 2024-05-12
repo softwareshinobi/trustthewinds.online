@@ -6,7 +6,7 @@ title:  "Fight Like connor mcgregor"
 
 author: mateo
 
-categories: [ Combat, connor mcgregor ]
+categories: [ Combat, Connor McGregor ]
 
 image: assets/imagery/athletics/combat/shadowclones/connormcgregor/knockout.jpg
 
