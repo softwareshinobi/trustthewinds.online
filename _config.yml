@@ -1,4 +1,6 @@
-# Site
+##
+## site configuration
+##
 
 name: "Vida De Avion"
 
@@ -30,14 +32,20 @@ email: the.software.shinobi@gmail.com
 
 authors:
 
+  mateo:
 
-  vidadeavion:
     name: mateo
+
     display_name: mateo
+
     avatar: 'assets/images/softwareshinobi.jpg'
+
     email: the.software.shinobi@gmail.com
+
     web: https://vidadeavion.online
+
     twitter: https://twitter.com/vidadeavion
+
     description: "top scores and top floors"
 
 # Plugins
