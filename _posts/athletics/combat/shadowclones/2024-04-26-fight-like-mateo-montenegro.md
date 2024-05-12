@@ -18,6 +18,15 @@ toc: true
 
 a youtube playlist of tutorials for mateo montenegro's fight style
 
+## combos to document
+
+silva / straight right > straight left > straight right (sticking niggas).
+
+mcgregor / bolo > right > left
+
+## agility
+
+
 ## fight like anderson silva (fightTips)
 
 Anderson Silva has become a legend in the sport of MMA. He dismantles his opponents with precise punches, sharp kicks, and devastating knees in the Muay Thai clinch.
