@@ -10,11 +10,13 @@ categories: [ Combat, Anderson Silva ]
 
 image: assets/imagery/athletics/combat/shadowclones/andersonsilva/sitting.jpg
 
-beforetoc: "Fight Like Anderson Silva"
+beforetoc: "a youtube playlist of anderson silva fighting"
 
 toc: true
 
 ---
+
+a youtube playlist of anderson silva fighting.
 
 ## dominant fight finishes
 
