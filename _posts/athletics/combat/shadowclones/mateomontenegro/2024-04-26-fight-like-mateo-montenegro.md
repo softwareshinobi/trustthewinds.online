@@ -18,6 +18,14 @@ toc: true
 
 the fight bag of mateo montenegro. the baddest bad boy on the planet.
 
+## the mindset
+
+american dominance. from day one.
+
+emulate the greats.
+
+escalate force.
+
 ## philosophy / american aggression on full display
 
 aggressive and controversial international policy.
