@@ -16,6 +16,8 @@ toc: true
 
 ---
 
+conor is a bad boy. now we learn. we soak up game.
+
 ## signature moves
 
 Three signature moves of connor mcgregor.

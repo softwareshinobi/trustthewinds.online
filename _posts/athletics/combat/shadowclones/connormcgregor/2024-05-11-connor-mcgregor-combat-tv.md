@@ -10,7 +10,7 @@ categories: [ Combat, Connor McGregor ]
 
 image: assets/imagery/athletics/combat/shadowclones/connormcgregor/sitting.jpg
 
-beforetoc: "youtube videos of connor mcgregor fighting."
+beforetoc: "youtube videos of Conor McGregor"
 
 toc: true
 
@@ -29,3 +29,7 @@ Watch a collection of the former featherweight and lightweight champion's top fi
 Documentary featuring the UFC career of Conor McGregor
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3LWHOi6o9aI?si=AVGSinMfUNaCRiRr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Nate Diaz vs Conor McGregor 1 | FREE FIGHT | UFC 279 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LPpqcvIlrhQ?si=tQy7y8O8BgN3cq0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
