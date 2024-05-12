@@ -16,4 +16,16 @@ toc: true
 
 ---
 
+Connor McGregor is a bad motherfucker.
+
+## Top Finishes: Conor McGregor 
+
+Watch a collection of the former featherweight and lightweight champion's top finishes in his career so far.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3mPPMCa8Nxw?si=0h3YOCIlSlEhXsnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## The McGregor Era 
+
+Documentary featuring the UFC career of Conor McGregor
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3LWHOi6o9aI?si=AVGSinMfUNaCRiRr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
