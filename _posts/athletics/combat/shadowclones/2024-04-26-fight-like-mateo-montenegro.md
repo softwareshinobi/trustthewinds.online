@@ -8,7 +8,7 @@ author: mateo
 
 categories: [ Combat, Anderson Silva, Connor McGregor ]
 
-image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/knockout.jpg
+image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/mateomontenegro.jpg
 
 beforetoc: "a youtube playlist of tutorials for mateo montenegro's fight style"
 
