@@ -18,26 +18,44 @@ toc: true
 
 the fight bag of mateo montenegro. the baddest bad boy on the planet.
 
-## stance. clenches.
+## philosophy / american aggression on full display
+
+aggressive and controversial international policy.
+
+we didn't come here to sing kumbaya with you.
+
+escalation of force. scramble the jets. throw the first punch.
+
+--
+
+bolo punch > straight right > stright left
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dX2XVu3Rq10?si=tIdnYvBroSj_d9Cq&amp;start=27" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## style / background 
+
+stance. clenches. signature moves 1,2,3
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QwmLtwZQQqc?si=5OPjyBFHKaBx6TZp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## stance. direction. movement.
+## signature stance
 
-traditional and southpaw variations of each.
+dancing anderson silva
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ayoGuLg1kXo?si=l79pjW2k8s-QLPRp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## throw the first punch
-
-bolo > right > left
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0mYyUHGBHxY?si=gzsQyoFdtYkC-IJG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-## combos to document
-
-silva / straight right > straight left > straight right (sticking niggas).
+## signature combo moves
 
 mcgregor / bolo > right > left
 
-## agility
+silva / straight right > straight left > straight right (sticking niggas).
+
+## signature spam moves
+
+silva / dancing jab
+
+mcgregor / dancing uppercut
+
+## signature taunts
+
+NBA too small
+
+Silva Guitar
