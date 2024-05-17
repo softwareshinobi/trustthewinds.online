@@ -4,17 +4,17 @@ layout: post
 
 author: mateo
 
-title:  "Playing Basketball Like James Harden"
+title:  "Hooping Like James Harden"
 
-categories: [athletics, basketball]
+categories: [ Basketball, James Harden ]
 
 tags: [athletics,sports,basketball,james harden,harden,step back]
 
 image: assets/images/athletics/basketball/james-harden.jpg
 
-description: "All the content to copy the game of basketball like James Harden."
+beforetoc: "he's left handed. i'm left handed. he sick from three and dribble drive penetration. i want all that."
 
-hidden: false
+toc: true
 
 ---
 
@@ -31,11 +31,6 @@ anyways. ascendance. this document is my living notebook to improve my game.
 this content was created and curated with intention to give niggas buckets all over the planet.
 
 adelante!
-
-## [ ] probing dribble shark thing
-
-## [ ] shot chart
-## shooting form mechanics
 
 ### How to Shoot like James Harden: Shooting Form Blueprint
 
