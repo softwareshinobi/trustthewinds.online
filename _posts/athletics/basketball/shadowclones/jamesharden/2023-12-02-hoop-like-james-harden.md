@@ -38,25 +38,21 @@ adelante!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uOzwHGbh_Qo?si=B4MsvNl1MqPp-KRN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## 1 on 1 compilations
-
-### James Harden Isolation Scoring (Prime Harden) 
+## James Harden Isolation Scoring (Prime Harden) 
 
 https://www.youtube.com/watch?v=ZabdQX_bf8w
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZabdQX_bf8w?si=FLskNy7Eqyb56EYR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## step backs jumpers
+## James Harden's Epic 17-18 MVP Season Highlights
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jerHuaIEQjg?si=zBKv3QzpQZOMDe5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## step back jumpers
 
 ### James Harden | Every Step Back | 2019-20 | Houston Rockets 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IRHdf1uQZFw?si=dldHSBAL7Yb1E1cO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-## award winning season compilations
-
-###  James Harden's Epic 17-18 MVP Season Highlights (Part 2) | GOAT SZN 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jerHuaIEQjg?si=zBKv3QzpQZOMDe5M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## wish list
 

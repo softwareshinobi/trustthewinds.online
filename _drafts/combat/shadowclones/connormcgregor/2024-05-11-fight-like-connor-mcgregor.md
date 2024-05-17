@@ -2,15 +2,15 @@
 
 layout: post
 
-title:  "Fight Like connor mcgregor"
+title:  "Fight Like Conor McGregor"
 
 author: mateo
 
-categories: [ Combat, Connor McGregor ]
+categories: [ Combat, Conor McGregor ]
 
-image: assets/imagery/athletics/combat/shadowclones/connormcgregor/knockout.jpg
+image: assets/imagery/athletics/combat/shadowclones/Conormcgregor/knockout.jpg
 
-beforetoc: "swagger jacking Connor McGregor's bag"
+beforetoc: "swagger jacking Conor McGregor's bag"
 
 toc: true
 
@@ -20,7 +20,7 @@ conor is a bad boy. now we learn. we soak up game.
 
 ## signature moves
 
-Three signature moves of connor mcgregor.
+Three signature moves of Conor mcgregor.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/dX2XVu3Rq10?si=xtPKyNW1RgHJBupi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
