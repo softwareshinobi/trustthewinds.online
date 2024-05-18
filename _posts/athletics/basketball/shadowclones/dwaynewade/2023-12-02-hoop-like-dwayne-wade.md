@@ -4,11 +4,11 @@ layout: post
 
 author: mateo
 
-title:  "Hooping Like James Harden"
+title:  "Hooping Like Dwayne Wade"
 
-categories: [ Basketball, James Harden ]
+categories: [ Basketball, Dwayne Wade ]
 
-tags: [athletics,sports,basketball,james harden,harden,step back]
+tags: [athletics,sports,basketball,Dwayne Wade]
 
 image: assets/images/athletics/basketball/james-harden.jpg
 
