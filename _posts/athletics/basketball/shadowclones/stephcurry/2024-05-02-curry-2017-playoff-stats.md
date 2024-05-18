@@ -10,7 +10,7 @@ categories: [ Basketball, Steph Curry ]
 
 tags: [athletics,sports,basketball,steph curry]
 
-image: assets/images/athletics/basketball/stephcurry.jpg
+image: assets/imagery/athletics/basketball/championship/larryobrian.jpg
 
 description: "All the content to copy the game of basketball like James Harden."
 

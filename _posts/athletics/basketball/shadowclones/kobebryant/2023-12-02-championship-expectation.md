@@ -10,7 +10,7 @@ categories: [athletics, basketball]
 
 tags: [athletics,sports,basketball]
 
-image: assets/images/athletics/basketball/stephcurry.jpg
+image: assets/imagery/athletics/basketball/championship/larryobrian.jpg
 
 description: "Emulating The Greats. Approaching The Game Like Kobe."
 
