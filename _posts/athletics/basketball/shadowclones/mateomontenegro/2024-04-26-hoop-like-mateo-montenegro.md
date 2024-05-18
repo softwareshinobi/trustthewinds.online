@@ -2,13 +2,13 @@
 
 layout: post
 
-title:  "Fight Like Mateo Montenegro"
+title:  "hooping Like Mateo Montenegro"
 
 author: mateo
 
 categories: [ Combat, Mateo Montenegro, Anderson Silva, Connor McGregor ]
 
-image: assets/imagery/athletics/combat/shadowclones/andersonsilva/knockout.jpg
+image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/sitting.jpg
 
 beforetoc: "a youtube playlist of tutorials for mateo montenegro's fight style"
 
