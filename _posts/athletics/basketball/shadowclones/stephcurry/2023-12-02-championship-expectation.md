@@ -4,15 +4,15 @@ layout: post
 
 author: sal
 
-title:  "Championship Steph Curry TV"
+title:  "Emulating The Greats. Approaching The Game Like Kobe."
 
 categories: [athletics, basketball]
 
-tags: [athletics,sports,basketball,james harden,harden,step back]
+tags: [athletics,sports,basketball]
 
 image: assets/images/athletics/basketball/stephcurry.jpg
 
-description: "All the content to copy the game of basketball like James Harden."
+description: "Emulating The Greats. Approaching The Game Like Kobe."
 
 hidden: false
 

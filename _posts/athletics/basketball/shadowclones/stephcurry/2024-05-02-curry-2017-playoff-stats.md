@@ -4,11 +4,11 @@ layout: post
 
 author: sal
 
-title:  "stepback school day 42"
+title:  "Steph Curry Stats Championship Playoffs 2017"
 
-categories: [athletics, basketball]
+categories: [ Basketball, Steph Curry ]
 
-tags: [athletics,sports,basketball,james harden,harden,step back]
+tags: [athletics,sports,basketball,steph curry]
 
 image: assets/images/athletics/basketball/stephcurry.jpg
 

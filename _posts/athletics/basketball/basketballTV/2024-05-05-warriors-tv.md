@@ -10,7 +10,7 @@ categories: [athletics, basketball]
 
 tags: [athletics,sports,basketball,winning,championships,steph curry,mindset]
 
-image: assets/imagery/athletics/opinions/austinriversjamesjones.webp
+image: assets/imagery/athletics/austinriversjamesjones.webp
 
 description: "Long Run Warriors during 2017 championship playoffs"
 
