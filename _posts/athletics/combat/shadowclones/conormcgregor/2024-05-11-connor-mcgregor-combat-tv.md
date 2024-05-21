@@ -28,6 +28,9 @@ Watch a collection of the former featherweight and lightweight champion's top fi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LPpqcvIlrhQ?si=tQy7y8O8BgN3cq0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## Nate Diaz vs Conor McGregor 2 / UFC 279
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IjOzp2VyN0Y?si=JrReYAbDcrHMd_RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## brutal compilation
 
