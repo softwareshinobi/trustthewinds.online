@@ -6,7 +6,7 @@ title:  "Combat Training Like Mateo Montenegro"
 
 author: mateo
 
-categories: [ Athletics, Mateo Montenegro ]
+categories: [ Basketball, Mateo Montenegro ]
 
 image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/sitting.jpg
 
