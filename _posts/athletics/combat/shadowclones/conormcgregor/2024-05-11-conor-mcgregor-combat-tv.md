@@ -6,11 +6,11 @@ title:  "Conor McGregor Combat TV"
 
 author: mateo
 
-categories: [ Combat, Connor McGregor ]
+categories: [ Combat, Conor McGregor ]
 
-image: assets/imagery/athletics/combat/shadowclones/connormcgregor/sitting.jpg
+image: assets/imagery/athletics/combat/shadowclones/conormcgregor/sitting.jpg
 
-beforetoc: "youtube videos of Conor McGregor"
+beforetoc: "Conor McGregor is a bad motherfucker"
 
 toc: true
 
@@ -35,5 +35,4 @@ Watch a collection of the former featherweight and lightweight champion's top fi
 ## Nate Diaz vs Conor McGregor 2
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IjOzp2VyN0Y?si=thKwUslaGN3_7OZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 

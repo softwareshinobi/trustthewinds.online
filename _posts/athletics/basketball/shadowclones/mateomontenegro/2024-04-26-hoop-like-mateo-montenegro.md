@@ -6,7 +6,7 @@ title:  "hooping Like Mateo Montenegro"
 
 author: mateo
 
-categories: [ Combat, Mateo Montenegro, Anderson Silva, Connor McGregor ]
+categories: [ Combat, Mateo Montenegro]
 
 image: assets/imagery/athletics/combat/shadowclones/mateomontenegro/sitting.jpg
 
