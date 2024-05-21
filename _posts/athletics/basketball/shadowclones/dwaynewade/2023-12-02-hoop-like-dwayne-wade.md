@@ -10,7 +10,7 @@ categories: [ Basketball, Dwayne Wade ]
 
 tags: [athletics,sports,basketball,Dwayne Wade]
 
-image: assets/images/athletics/basketball/james-harden.jpg
+image: assets/images/athletics/basketball/jdwaynewade/jumbotron.jpg
 
 beforetoc: "he's left handed. i'm left handed. he sick from three and dribble drive penetration. i want all that."
 
