@@ -8,7 +8,7 @@ author: mateo
 
 categories: [ Combat, TV ]
 
-image: assets/imagery/athletics/combat/bitches/stampfairtext.jpg
+image: assets/imagery/athletics/combat/bitches/stampfairtex.jpg
 
 beforetoc: "bitches fighting."
 
