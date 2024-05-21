@@ -2,13 +2,13 @@
 
 layout: post
 
-title:  "Connor McGregor Combat TV"
+title:  "Conor McGregor Combat TV"
 
 author: mateo
 
 categories: [ Combat, Connor McGregor ]
 
-image: assets/imagery/athletics/combat/shadowclones/conormcgregor/sitting.jpg
+image: assets/imagery/athletics/combat/shadowclones/connormcgregor/sitting.jpg
 
 beforetoc: "youtube videos of Conor McGregor"
 
