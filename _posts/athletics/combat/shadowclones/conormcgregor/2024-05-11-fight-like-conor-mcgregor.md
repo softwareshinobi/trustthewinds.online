@@ -8,7 +8,7 @@ author: mateo
 
 categories: [ Combat, Conor McGregor ]
 
-image: assets/imagery/athletics/combat/shadowclones/Conormcgregor/knockout.jpg
+image: assets/imagery/athletics/combat/shadowclones/conormcgregor/knockout.jpg
 
 beforetoc: "swagger jacking Conor McGregor's bag"
 
