@@ -24,14 +24,16 @@ Watch a collection of the former featherweight and lightweight champion's top fi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3mPPMCa8Nxw?si=0h3YOCIlSlEhXsnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+## brutal knockout compilation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/54D8qQJJa7s?si=gBbPyvKGVUKsggis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Nate Diaz vs Conor McGregor 1 / UFC 279 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LPpqcvIlrhQ?si=tQy7y8O8BgN3cq0r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Nate Diaz vs Conor McGregor 2 / UFC 279
+## Nate Diaz vs Conor McGregor 2
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IjOzp2VyN0Y?si=JrReYAbDcrHMd_RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IjOzp2VyN0Y?si=thKwUslaGN3_7OZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## brutal compilation
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/54D8qQJJa7s?si=gBbPyvKGVUKsggis" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
