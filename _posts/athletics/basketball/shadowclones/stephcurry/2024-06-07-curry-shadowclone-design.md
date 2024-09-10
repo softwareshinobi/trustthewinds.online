@@ -4,7 +4,7 @@ layout: post
 
 author: sal
 
-title:  "Steph Curry Stats Championship Playoffs 2017"
+title:  "Steph Curry Shadow Clone Design"
 
 categories: [ Basketball, Steph Curry ]
 
@@ -12,11 +12,13 @@ tags: [athletics,sports,basketball,steph curry]
 
 image: assets/imagery/athletics/basketball/championship/larryobrian.jpg
 
-description: "All the content to copy the game of basketball like James Harden."
+description: "All the content to copy the game of basketball like Steph Curry."
 
 hidden: false
 
 ---
+
+All the content to copy the game of basketball like Steph Curry.
 
 ## bballbreakdown / mechanics
 
