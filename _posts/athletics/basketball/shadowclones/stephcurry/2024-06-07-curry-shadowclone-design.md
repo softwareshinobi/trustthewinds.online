@@ -27,3 +27,7 @@ the stance / the arms / ball tracking / post shot charm
 ## steph curry / 80 pt free throw streak
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/oJE9mhwO058?si=eMPH_jU4-7qen2CJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## dribble workout
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rtwd7JXbMpo?si=2zVBl5f9A51BnBs_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
